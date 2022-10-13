@@ -1,6 +1,6 @@
 # veri yapıları ve algoritmalar proje
 
 
-## alt bilgi
+## Insertion Sort Projesi
 [Patika.dev](https://app.patika.dev/elifozturk)
 
