@@ -3,7 +3,7 @@
 
 ## Insertion Sort Projesi
 [Patika.dev](https://app.patika.dev/elifozturk)
-
+```
 #InsertionSort --> [22,27,16,2,18,6] 
 
 2,27,16,22,18,6
@@ -23,5 +23,5 @@ Big-O : n.(n+1)/2 O(n^2) 18 Average case'dir.
 2,3,4,5,7,9,8,15,6
 
 2,3,4,5,6,9,8,15,7
-
+```
 
