@@ -26,7 +26,7 @@ Big-O : n.(n+1)/2 O(n^2) 18 Average case'dir.
 ```
 
 
-## Merge Sort Projesi
+
 ```
 [16,21,11,8,12,22] -> Merge Sort
 
@@ -47,3 +47,19 @@ Big-O : n.(n+1)/2 O(n^2) 18 Average case'dir.
               
 Big-O gösterimi O(nlogn) dir.
 ```
+
+## Binary Search Tree Projesi
+```
+[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] 
+
+                   7
+                  / \
+                 5   8
+               /   \   \
+              1     6    9
+             /  \
+            0    3
+                / \
+               2    4
+```
+              
